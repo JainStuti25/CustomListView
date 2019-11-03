@@ -12,7 +12,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    String[] name = {"Facebook", "Whatsapp" , "Twitter"};
+    String[] name = {"Picture 1", "Picture 2" , "Picture 3"};
     int[] myimages = {R.drawable.activity_lifecycle, R.drawable.trash, R.drawable.trashbin};
     ListView listView;
 
